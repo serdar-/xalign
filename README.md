@@ -3,7 +3,7 @@ xalign is a multiple structral (cross) alignment tool written in Java. It can al
 
 You can use it in the command line with following commmand:
 
-`java -jar xalign.jar 1 zip_file_that_contains_pdbs.zip path_to_results`
+`java -jar xalign.jar 1 group_1_pdbs.zip  group_2_pdbs.zip path_to_results`
 
 Here `1` stands for the type of alignment algorithm. There are two distinct alignment algorithms that it can use: 
 
